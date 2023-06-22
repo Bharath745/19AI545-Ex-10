@@ -1,4 +1,4 @@
-# Ex-10-Create-a-Gliding-box-using-CSS-Animation
+# Ex-11-Create-a-Gliding-box-using-CSS-Animation
 ## Aim:-
 To Create a Gliding box using CSS Animation
 ## Algorithm:-
